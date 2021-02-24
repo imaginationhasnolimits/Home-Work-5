@@ -1,0 +1,45 @@
+body {
+    background-color: #141414;
+    text-align: center;
+    
+}
+
+header {
+    margin-top: 120px;
+}
+
+.separator {
+    width: 230px;
+    height: 1px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    
+}
+
+main {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20pt;
+  font-weight: normal;
+  color: #ffffff;
+  margin-top: 50px;
+
+}
+
+.social {
+margin: 0 15px 0 15px;
+vertical-align: top;
+}
+
+footer {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  color: #ffffff;
+  margin-bottom: 40px;
+  margin-top: 85px;
+}
+
+span {
+color:  #00c7fc;
+}
+
